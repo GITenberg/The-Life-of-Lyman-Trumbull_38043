@@ -1,0 +1,28 @@
+_repo: The-Life-of-Lyman-Trumbull_38043
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: White, Horace
+    birthdate: 1834
+    deathdate: 1916
+    gutenberg_agent_id: '9116'
+    url: http://www.gutenberg.org/2009/agents/9116
+    wikipedia: http://en.wikipedia.org/wiki/Horace_White_%28writer%29
+description: ''
+gutenberg_issued: '2011-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38043'
+  lccn: '13021524'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trumbull, Lyman, 1813-1896'
+- !lcc 'E300'
+title: The Life of Lyman Trumbull
+url: http://www.gutenberg.org/ebooks/38043
