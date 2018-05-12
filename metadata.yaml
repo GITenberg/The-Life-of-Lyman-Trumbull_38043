@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9116
     wikipedia: http://en.wikipedia.org/wiki/Horace_White_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38043#The-Life-of-Lyman-Trumbull
 gutenberg_issued: '2011-11-18'
 gutenberg_type: Text
 identifiers:
